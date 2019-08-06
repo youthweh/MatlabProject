@@ -7,3 +7,5 @@ Projek Matlab yang mengimplementasikan pemrosesan Citra Digital untuk gambar dal
 * Jalankan file berformat .m
 * Aplikasi berbentuk GUI
 
+## Link Download Matlab
+[Matlab](https://www.mathworks.com/products/matlab.html)
